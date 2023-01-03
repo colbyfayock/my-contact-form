@@ -4,6 +4,7 @@ import { Input } from './components/input/input';
 import { Label } from './components/label/label';
 import { Button } from './components/button/button';
 import { FormRow } from './components/form-row/form-row';
+import { RiSendPlaneFill } from 'react-icons/ri';
 
 function App() {
     return (
@@ -24,7 +25,8 @@ function App() {
                     <Input id="message" name={'message'} />
                 </FormRow>
                 <FormRow>
-                    <Button>Submit</Button>
+                    <Button>
+                        <RiSendPlaneFill className={styles['submit-icon']} />Submit</Button>
                 </FormRow>
             </form>
         </div>

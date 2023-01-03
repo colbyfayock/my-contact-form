@@ -2,7 +2,7 @@ import styles from './button.module.scss';
 
 export interface ButtonProps {
     className?: string;
-    children?: JSX.Element | Array<JSX.Element> | string;
+    children?: JSX.Element | Array<JSX.Element|string> | string;
 }
 
 export const Button = ({ children, className }: ButtonProps) => {

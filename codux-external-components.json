@@ -1,0 +1,12 @@
+[
+  {
+    "name": "React Icons",
+    "components": [
+      {
+        "filePath": "react-icons/ri",
+        "exportName": "RiSendPlaneFill",
+        "name": "RiSendPlaneFill"
+      }
+    ]
+  }
+]
