@@ -20,6 +20,15 @@ function App() {
             if (!field.name) return;
             formData[field.name] = field.value;
         });
+
+        fetch('/.netlify/functions/mail', {
+            method: 'POST',
+            body: JSON.stringify(formData)
+        }).then(response => {
+            // Do something here on success!
+        }).catch(error => {
+            // Do something here on error!
+        });
     }
     return (
         <div className={styles.App}>
