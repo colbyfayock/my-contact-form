@@ -6,7 +6,7 @@ export interface LabelProps {
     htmlFor?: string;
 }
 
-export const Label = ({ children, className }: LabelProps) => {
-    return <div className={`${styles.root} ${className}`}><label>{ children }</label>
+export const Label = ({ children, className, htmlFor }: LabelProps) => {
+    return <div className={`${styles.root} ${className}`}><label htmlFor={htmlFor} className={styles.label}>{ children }</label>
     </div>;
 };

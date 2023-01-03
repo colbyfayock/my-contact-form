@@ -7,5 +7,5 @@ export interface ButtonProps {
 
 export const Button = ({ children, className }: ButtonProps) => {
     return <div className={`${styles.root} ${className}`}>
-        <button>{ children }</button></div>;
+        <button className={styles.button}>{children}</button></div>;
 };

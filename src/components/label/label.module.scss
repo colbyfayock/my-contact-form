@@ -1,2 +1,12 @@
-.root {
+.root {}
+
+.label {
+    width: 100%;
+    display: block;
+    text-align: start;
+    font-weight: 700;
+    margin-bottom: 0.5em;
+    font-size: 0.75em;
+    text-transform: uppercase;
+    color: #50535B;
 }
