@@ -6,6 +6,8 @@ Demo for tutorial [How to Build React Apps Faster with Codux Visual IDE](https:/
 
 📺 Video: Coming soon...
 
+🚀 Demo: https://my-contact-form-codux.netlify.app/
+
 ## More tutorials and walkthroughs
 
 🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
