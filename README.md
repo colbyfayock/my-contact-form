@@ -1,10 +1,10 @@
 # Contact Form React App with Codux Visual IDE
 
-Demo for tutorial [How to Build React Apps Faster with Codux Visual IDE](https://www.youtube.com/colbyfayock)
+Demo for tutorial [How to Build React Apps Faster with Codux Visual IDE](https://www.youtube.com/watch?v=e7lcUQyIxKM)
 
-📝 Article: Coming soon...
+📝 Article: https://spacejelly.dev/posts/how-to-build-react-apps-faster-with-codux-visual-ide
 
-📺 Video: Coming soon...
+📺 Video: https://www.youtube.com/watch?v=e7lcUQyIxKM
 
 🚀 Demo: https://my-contact-form-codux.netlify.app/
 
