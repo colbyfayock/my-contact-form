@@ -1,2 +1,5 @@
+[build]
+  command = "node --version && npm run build"
+
 [functions]
   directory = "functions"
